@@ -1,4 +1,4 @@
-let num = 8
-num **= 2 
-
-console.log(num)
+function multiply(a,b){
+  let soma = 5*8
+}
+console.log(soma)
